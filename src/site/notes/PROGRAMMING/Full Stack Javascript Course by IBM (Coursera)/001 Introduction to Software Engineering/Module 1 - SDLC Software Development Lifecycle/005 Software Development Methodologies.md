@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/programming/full-stack-javascript-course-by-ibm-coursera/001-introduction-to-software-engineering/module-1-sdlc-software-development-lifecycle/005-software-development-methodologies/"}
 ---
+
 ### Sequential vs Iterative
 __Sequential__: Waterfall and V-shape Model
 - centers around the whole product before soliciting customer's feedback
