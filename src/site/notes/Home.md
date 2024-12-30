@@ -5,9 +5,6 @@
 
 
 
-NOTES KO TO NIGGER
-
-
 - [[PROGRAMMING/Web Development/FrontEnd/React JS/00 Essential JavaScript/01 Destructuring Objects and Arrays\|01 Destructuring Objects and Arrays]]
 - [[PROGRAMMING/Web Development/FrontEnd/React JS/00 Essential JavaScript/013 Asynchronous JavaScript Promises\|013 Asynchronous JavaScript Promises]]
 - [[PROGRAMMING/Web Development/FrontEnd/React JS/00 Essential JavaScript/012 Add, Delete & Update an Array(Working with Immutable Arrays)\|012 Add, Delete & Update an Array(Working with Immutable Arrays)]]
