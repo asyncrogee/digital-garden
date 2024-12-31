@@ -1,31 +1,42 @@
 ---
+tags:
+  - programming
+  - softwareengineering
+  - softwaredevelopment
+  - SDLC
 dg-publish: true
+Topic: Software Development
 ---
-- __Combination of technologies__
+
+- **Combination of technologies**
 - Used for creating applications and solutions
 - Stacked in a hierarchy to support the application from user to computer hardware
 - Typically include:
-	- Front-end technologies
-	- Back-end technologies
+  - Front-end technologies
+  - Back-end technologies
 
 > [!tip] Parts of a software stack
-> __Simplest__ implementation (common but not always):
+> **Simplest** implementation (common but not always):
+>
 > - Presentation
 > - Logic Layer
 > - Data Layer
-> 
-> __Complex__ implementation also includes:
+>
+> **Complex** implementation also includes:
+>
 > - _same as the 3 above_ &,
-> -  Security
+> - Security
 > - Virtualization
 > - Orchestration
-> 
+>
 > Sources:
+>
 > - Internal
 > - Third party
 > - Cloud
 
 > [!example] Examples of software stacks
+>
 > - Python-Django
 > - Ruby on Rails
 > - ASP .NET

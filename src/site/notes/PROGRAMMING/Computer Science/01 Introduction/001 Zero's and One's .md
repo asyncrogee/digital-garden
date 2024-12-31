@@ -1,13 +1,7 @@
 ---
-Course: CS50
-Topic: Binary
-Week: 1
-tags:
-  - computerscience
-  - cs50
-  - c_lang
-dg-publish: true
+{"dg-publish":true,"permalink":"/programming/computer-science/01-introduction/001-zero-s-and-one-s/","tags":["computerscience","cs50","c_lang"]}
 ---
+
 ## Binary
 ![Pasted image 20240626182049.png](/img/user/PROGRAMMING/Computer%20Science/01%20Introduction/attachments/Pasted%20image%2020240626182049.png)
 

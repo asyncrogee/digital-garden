@@ -1,12 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/programming/full-stack-javascript-course-by-ibm-coursera/001-introduction-to-software-engineering/module-1-sdlc-software-development-lifecycle/004-requirements/"}
+{"dg-publish":true,"permalink":"/programming/full-stack-javascript-course-by-ibm-coursera/001-introduction-to-software-engineering/module-1-sdlc-software-development-lifecycle/004-requirements/","tags":["programming","softwareengineering","softwaredevelopment","SDLC"]}
 ---
 
+
 > [!info] Steps to gathering requirements
+>
 > - Identifying stakeholders
 > - Establishing goals and objectives
 > - Eliciting requirements from the stakeholders
-> - Documenting  the requirements
+> - Documenting the requirements
 > - Analyzing and confirming the requirements
 > - Prioritizing
 
@@ -14,92 +16,98 @@
 > ![Pasted image 20241207090914.png](/img/user/Misc/attachments/Pasted%20image%2020241207090914.png)
 
 > [!tip] Establishing goals and objectives
-> - __Goals__: broad, long-term achievable outcomes
-> - __Objectives__: actionable, measurable actions that achieve the goal
+>
+> - **Goals**: broad, long-term achievable outcomes
+> - **Objectives**: actionable, measurable actions that achieve the goal
 
 > [!tip] Eliciting, documenting, confirming
-> - __Elicit__
-> 	- Surveys
-> 	- Questionnaires
-> 	- Interviews
-> - __Document__
-> 	- Align with goals and objectives
-> 	- Easily understood
-> - __Confirm__
-> 	- Consistency
-> 	- Clarity
-> 	- Completeness
+>
+> - **Elicit**
+>   - Surveys
+>   - Questionnaires
+>   - Interviews
+> - **Document**
+>   - Align with goals and objectives
+>   - Easily understood
+> - **Confirm**
+>   - Consistency
+>   - Clarity
+>   - Completeness
 
 > [!tip] Prioritizing
 > Labels:
+>
 > - Must-have
 > - Highly desired
 > - Nice to have
 
- ---
- > [!caution] Requirements documentation
- > - Software requirements specification (SRS)
- > - User requirements specification (URS)
- > - System requirements specification (SysRS)
- 
- > [!info] ###### Software Requirements Specification (SRS)
- > - Captures functionalities the software should perform
- > - Establishes benchmarks / service-levels for performance
- > - Purpose and scope
- > - Constraints, assumptions, dependencies
- > - __Requirements__
- > 	- Functional
- > 	- External interface
- > 	- System features
- > 	- Non-functional
- > 
- >> [!tip] Purpose and Scope
- >> - __Purpose__
- >> 	- Who has access to the SRS
- >> 	- How it should be used
->> - __Scope__
->> 	- Software benefits
->> 	- Goals
->> 	- Objectives
+---
+
+> [!caution] Requirements documentation
 >
+> - Software requirements specification (SRS)
+> - User requirements specification (URS)
+> - System requirements specification (SysRS)
+
+> [!info] ###### Software Requirements Specification (SRS)
 >
->> [!tip] Constraints, assumptions, dependencies
->> - __Constraints__: how the software must operate under given conditions
->> - __Assumptions__: required OS or hardware
->> - __Dependencies__: on other software products
+> - Captures functionalities the software should perform
+> - Establishes benchmarks / service-levels for performance
+> - Purpose and scope
+> - Constraints, assumptions, dependencies
+> - **Requirements**
+>   - Functional
+>   - External interface
+>   - System features
+>   - Non-functional
 >
+> > [!tip] Purpose and Scope
+> >
+> > - **Purpose**
+> >   - Who has access to the SRS
+> >   - How it should be used
+> > - **Scope**
+> >   - Software benefits
+> >   - Goals
+> >   - Objectives
 >
->> [!tip] Requirements
->> - __Functional__: functions of the software
->> - __External__: users and interactions with other hardware or software
->> - __System features__: functions of the system
->> - __Non-functional__: performance, safety, security, quality
+> > [!tip] Constraints, assumptions, dependencies
+> >
+> > - **Constraints**: how the software must operate under given conditions
+> > - **Assumptions**: required OS or hardware
+> > - **Dependencies**: on other software products
+>
+> > [!tip] Requirements
+> >
+> > - **Functional**: functions of the software
+> > - **External**: users and interactions with other hardware or software
+> > - **System features**: functions of the system
+> > - **Non-functional**: performance, safety, security, quality
 
 > [!info] ###### User Requirements Specification (URS)
+>
 > - Describe business need and end-user expectations
-> 
-> - __User stories:__ 
-> 	- Who is the user?
-> 	- What is the function that needs to be performed?
-> 	- Why does the user want this functionality?
-> 
-> 
+>
+> - **User stories:**
+>
+>   - Who is the user?
+>   - What is the function that needs to be performed?
+>   - Why does the user want this functionality?
+>
 > - Confirmed during user acceptance testing
 > - Often combined into the SRS
 
 > [!info] ###### System Requirements Specification (SysRS)
-> - Outlines __requirements of the system__
+>
+> - Outlines **requirements of the system**
 > - Broader than an SRS
-> 
+>
 > - Contains:
-> 	- System capabilities
-> 	- Interfaces and user characteristics
-> 	- Policy
-> 	- Regulation
-> 	- Personnel
-> 	- Performance
-> 	- Security
-> 	- System acceptance criteria
-
-
- 
+>   - System capabilities
+>   - Interfaces and user characteristics
+>   - Policy
+>   - Regulation
+>   - Personnel
+>   - Performance
+>   - Security
+>   - System acceptance criteria

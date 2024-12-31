@@ -1,20 +1,7 @@
 ---
-ProgrammingLanguage: JavaScript
-Framework/Library: ReactJS
-Type: fundamentals
-Topic: Props, Immutability, and One-Way Data Flow
-Course: "The Ultimate React Course 2024: React, Next.js, Redux & More"
-Section: Working with Components, Props, and JSX
-Reference/Resources: https://www.udemy.com/course/the-ultimate-react-course/
-tags:
-  - programming
-  - ReactJS
-  - javascript
-  - props
-  - state
-  - components
-dg-publish: true
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/react-js/001-react-fundamentals/001-intro-and-theories/005-component-props-and-state/","tags":["programming","ReactJS","javascript","props","state","components","reactjsintro"]}
 ---
+
 ---
 
 ## Props and Immutability
