@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/programming/full-stack-javascript-course-by-ibm-coursera/001-introduction-to-software-engineering/module-1-sdlc-software-development-lifecycle/004-requirements/"}
 ---
+
 > [!info] Steps to gathering requirements
 > - Identifying stakeholders
 > - Establishing goals and objectives
