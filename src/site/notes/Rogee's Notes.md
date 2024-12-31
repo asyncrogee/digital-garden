@@ -48,9 +48,9 @@
 
 
 - [[Rogee's Notes\|Rogee's Notes]]
-- [[0 LEARNING/testing/Absorb TEXTBOOKS like a Sponge\|Absorb TEXTBOOKS like a Sponge]]
-- [[0 LEARNING/testing/How to accomplish Goals for 2024 by Iman Gadzhi\|How to accomplish Goals for 2024 by Iman Gadzhi]]
-- [[0 LEARNING/testing/How to take better Notes\|How to take better Notes]]
+- [[0 LEARNING/Absorb TEXTBOOKS like a Sponge\|Absorb TEXTBOOKS like a Sponge]]
+- [[0 LEARNING/How to accomplish Goals for 2024 by Iman Gadzhi\|How to accomplish Goals for 2024 by Iman Gadzhi]]
+- [[0 LEARNING/How to take better Notes\|How to take better Notes]]
 - [[PROGRAMMING/Programming\|Programming]]
 - [[PROGRAMMING/Side-Projects\|Side-Projects]]
 - [[PROGRAMMING/Computer Science/01 Introduction/001 Zero's and One's \|001 Zero's and One's ]]
