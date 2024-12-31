@@ -3,6 +3,8 @@
 ---
 
 
+>[!quote]
+>_A tree falls the way it leans_.
 # Rogee's Learning Journey Notes
 
 ---
@@ -48,9 +50,9 @@
 
 
 - [[Rogee's Notes\|Rogee's Notes]]
-- [[0 LEARNING/Absorb TEXTBOOKS like a Sponge\|Absorb TEXTBOOKS like a Sponge]]
-- [[0 LEARNING/How to accomplish Goals for 2024 by Iman Gadzhi\|How to accomplish Goals for 2024 by Iman Gadzhi]]
-- [[0 LEARNING/How to take better Notes\|How to take better Notes]]
+- [[LEARNING/Absorb TEXTBOOKS like a Sponge\|Absorb TEXTBOOKS like a Sponge]]
+- [[LEARNING/How to accomplish Goals for 2024 by Iman Gadzhi\|How to accomplish Goals for 2024 by Iman Gadzhi]]
+- [[LEARNING/How to take better Notes\|How to take better Notes]]
 - [[PROGRAMMING/Programming\|Programming]]
 - [[PROGRAMMING/Side-Projects\|Side-Projects]]
 - [[PROGRAMMING/Computer Science/01 Introduction/001 Zero's and One's \|001 Zero's and One's ]]
