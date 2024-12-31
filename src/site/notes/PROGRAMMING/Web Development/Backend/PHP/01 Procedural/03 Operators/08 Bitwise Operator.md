@@ -59,7 +59,7 @@ $y = 3;
 
 var_dump($x $ y); // int(1)
 ```
-- ### `<<` Shift bits to Left
+- ###  Shift bits to Left
 	- Moves the bits to the __Left__, effectively __multiplying__ the `number` __by 2__ for each position shifted.
 ```php
 $x = 6;
@@ -72,7 +72,7 @@ $y = 3;
 
 var_dump($x << $y); // int(48)
 ```
-- ### `>>` Shift bits to Right
+- ### Shift bits to Right
 	- Moves the bits to the __Right__, effectively __dividing__ the `number` __by 2__ for each position shifted.
 ```php
 $x = 6;
