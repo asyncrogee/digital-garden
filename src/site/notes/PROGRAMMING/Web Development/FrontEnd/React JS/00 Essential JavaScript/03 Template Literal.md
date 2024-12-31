@@ -1,7 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/react-js/00-essential-java-script/03-template-literal/","tags":["programming","jsbasics","javascript","JS-Fundamentals"]}
+ProgrammingLanguage: JavaScript
+Framework/Library: N/A
+Type: fundamentals
+Topic: Template Literal
+Course: "The Ultimate React Course 2024: React, Next.js, Redux & More"
+Section: Review of Essential JavaScript for React
+Reference/Resources: https://www.udemy.com/course/the-ultimate-react-course/
+tags:
+  - programming
+  - jsbasics
+  - javascript
+  - JS-Fundamentals
+dg-publish: true
 ---
-
 # Template Literal
 
 --- 

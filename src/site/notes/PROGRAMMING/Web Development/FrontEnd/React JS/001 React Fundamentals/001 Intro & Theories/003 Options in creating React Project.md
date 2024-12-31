@@ -1,7 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/react-js/001-react-fundamentals/001-intro-and-theories/003-options-in-creating-react-project/","tags":["programming","ReactJS","javascript"]}
+ProgrammingLanguage: JavaScript
+Framework/Library: ReactJS
+Type: fundamentals
+Topic: Setup
+Course: "The Ultimate React Course 2024: React, Next.js, Redux & More"
+Section: A first look at React
+Reference/Resources: https://www.udemy.com/course/the-ultimate-react-course/
+tags:
+  - programming
+  - ReactJS
+  - javascript
+dg-publish: true
 ---
-
 
 > [!info] Create-React-App
 > - Complete "starter kit" for React applications

@@ -1,7 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/react-js/001-react-fundamentals/002-components/001-render-root-component-and-strict-mode/","tags":["programming","ReactJS","javascript","components"]}
+ProgrammingLanguage: JavaScript
+Framework/Library: ReactJS
+Type: fundamentals
+Topic: Components
+Course: "The Ultimate React Course 2024: React, Next.js, Redux & More"
+Section: Working with Components, Props, and JSX
+Reference/Resources: https://www.udemy.com/course/the-ultimate-react-course/
+tags:
+  - programming
+  - ReactJS
+  - javascript
+  - components
+dg-publish: true
 ---
-
 ## Rendering Root in React 18
 ```js
 import React from "react";

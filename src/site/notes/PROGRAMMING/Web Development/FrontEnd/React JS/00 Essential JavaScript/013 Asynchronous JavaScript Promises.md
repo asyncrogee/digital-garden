@@ -1,7 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/react-js/00-essential-java-script/013-asynchronous-java-script-promises/","tags":["programming","jsbasics","javascript","JS-Fundamentals"]}
+ProgrammingLanguage: JavaScript
+Framework/Library: N/A
+Type: fundamentals
+Topic: Asynchronous Promises
+Course: "The Ultimate React Course 2024: React, Next.js, Redux & More"
+Section: Review of Essential JavaScript for React
+Reference/Resources: https://www.udemy.com/course/the-ultimate-react-course/
+tags:
+  - programming
+  - jsbasics
+  - javascript
+  - JS-Fundamentals
+dg-publish: true
 ---
-
 
 > [!abstract] Promise
 > The **`Promise`** object represents the eventual completion (or failure) of an asynchronous operation and its resulting value.

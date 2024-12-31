@@ -1,7 +1,7 @@
 ---
-sticker: emoji//1f4da
-dg-publish: true
+{"dg-publish":true,"permalink":"/programming/programming/","tags":["programming","learning","resources"]}
 ---
+
 # Resources / Roadmaps
 - [The Roadmap / Roadmap.sh](https://github.com/roadmapsh/next.roadmap.sh)
 - [Computer Science Roadmap](https://roadmap.sh/computer-science)

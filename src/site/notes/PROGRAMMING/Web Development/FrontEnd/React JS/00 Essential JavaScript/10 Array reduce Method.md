@@ -1,7 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/react-js/00-essential-java-script/10-array-reduce-method/","tags":["programming","jsbasics","javascript","JS-Fundamentals"]}
+ProgrammingLanguage: JavaScript
+Framework/Library: N/A
+Type: fundamentals
+Topic: Array reduce Method
+Course: "The Ultimate React Course 2024: React, Next.js, Redux & More"
+Section: Review of Essential JavaScript for React
+Reference/Resources: https://www.udemy.com/course/the-ultimate-react-course/
+tags:
+  - programming
+  - jsbasics
+  - javascript
+  - JS-Fundamentals
+dg-publish: true
 ---
-
 
 > [!abstract] reduce method
 > Reduces/Boil down the entire array into _1 value_
