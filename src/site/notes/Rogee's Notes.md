@@ -5,7 +5,7 @@
 
 >[!quote]
 >_A tree falls the way it leans_.
-# Rogee's Learning Journey Notes
+# My Learning Journey Notes
 
 ---
 ## Currently Learning:
