@@ -9,7 +9,7 @@
 
 ---
 ## Currently Learning:
-> [!abstract]- My ReactJS Learning Notes:
+> [!abstract]+ My ReactJS Learning Notes:
 > Currently taking:
 > -  [[https://www.udemy.com/course/the-ultimate-react-course/\|Jonas Schmedtmann's ReactJS Course from Udemy (FOR FREE 🤫🧏🏻‍♂️)]]
 > ### Intro & Theories:
