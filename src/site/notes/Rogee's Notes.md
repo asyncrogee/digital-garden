@@ -11,16 +11,13 @@
 ---
 # My Learning Journey Notes
 
-
 ## Currently Learning:
 > [!abstract]+ My ReactJS Learning Notes:
-
- Currently taking:
-  - [Jonas Schmedtmann's ReactJS Course from Udemy (FOR FREE 🤫🧏🏻‍♂️)](https://www.udemy.com/course/the-ultimate-react-course)
-
+>  Currently taking:
+>  - [Jonas Schmedtmann's ReactJS Course from Udemy (FOR FREE 🤫🧏🏻‍♂️)](https://www.udemy.com/course/the-ultimate-react-course)
 
 
- ### Intro & Theories:
+ #### Intro & Theories:
 | File                                                                                                                                                                          | Topic                                      |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
 | [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/001 Intro & Theories/001 Frameworks, Why\|001 Frameworks, Why]]                                     | Frameworks                                 |
@@ -30,7 +27,7 @@
 | [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/001 Intro & Theories/005 Component, Props & State\|005 Component, Props & State]]                   | Props, Immutability, and One-Way Data Flow |
 
 { .block-language-dataview}
-### Components:
+#### Components:
 | File                                                                                                                                                                        | Topic      |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/002 Components/001 Render Root Component & Strict Mode\|001 Render Root Component & Strict Mode]] | Components |
@@ -39,7 +36,7 @@
 | [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/002 Components/004 Sample  Component Logic\|004 Sample  Component Logic]]                         | Components |
 
 { .block-language-dataview}
-### JSX:
+#### JSX:
 | File                                                                                                                                                                                 | Topic                               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------- |
 | [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/003 JSX/001 What is JSX\|001 What is JSX]]                                                                 | JSX                                 |
