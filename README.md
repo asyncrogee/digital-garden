@@ -1,5 +1,6 @@
 # This is the repository for my Learning Notes from Obsidian.
 You can view my notes here: https://jrogeet-notes.vercel.app/
+
 This repository serves as my "**Second Brain**," a collection of notes meticulously organized using the *Zettelkasten Method*. 
 Each note reflects insights gathered while taking courses or learning from various resources.
 
