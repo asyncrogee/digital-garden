@@ -10,7 +10,11 @@
 
 ---
 # My Learning Journey Notes
+This repository serves as my "__Second Brain__," a collection of notes meticulously organized using the _Zettelkasten Method_. 
 
+Each note reflects insights gathered while taking courses or learning from various resources.
+
+---
 ## Currently Learning:
 > [!abstract]+ My ReactJS Learning Notes:
 >  Currently taking:
@@ -52,11 +56,9 @@
 
 ---
 
-
+## All uploaded notes:
 > [!caution] My To-Do:
 > - Make sections for each topics/subjects to make it look organized.
-
-## All uploaded notes:
 - [[Rogee's Notes\|Rogee's Notes]]
 - [[LEARNING/Absorb TEXTBOOKS like a Sponge\|Absorb TEXTBOOKS like a Sponge]]
 - [[LEARNING/How to accomplish Goals for 2024 by Iman Gadzhi\|How to accomplish Goals for 2024 by Iman Gadzhi]]
