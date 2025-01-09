@@ -3,7 +3,7 @@
 ---
 
 
->[!quote]
+>[!quote] Quote of the week:
 >_"He who has a why to live can bear almost any how."_ 
 >
 >― Friedrich Nietzsche
@@ -56,7 +56,7 @@
 > [!caution] My To-Do:
 > - Make sections for each topics/subjects to make it look organized.
 
-### All uploaded notes:
+## All uploaded notes:
 - [[Rogee's Notes\|Rogee's Notes]]
 - [[LEARNING/Absorb TEXTBOOKS like a Sponge\|Absorb TEXTBOOKS like a Sponge]]
 - [[LEARNING/How to accomplish Goals for 2024 by Iman Gadzhi\|How to accomplish Goals for 2024 by Iman Gadzhi]]
