@@ -6,7 +6,7 @@
 >[!quote]
 >_"He who has a why to live can bear almost any how."_ 
 >
->―Friedrich Nietzsche
+>― Friedrich Nietzsche
 
 ---
 # My Learning Journey Notes
