@@ -4,52 +4,62 @@
 
 
 >[!quote]
->_A tree falls the way it leans_.
-# My Learning Journey Notes
+>_"He who has a why to live can bear almost any how."_ 
+>
+>―Friedrich Nietzsche
 
 ---
+# My Learning Journey Notes
+
+
 ## Currently Learning:
 > [!abstract]+ My ReactJS Learning Notes:
-> Currently taking:
->  - [Jonas Schmedtmann's ReactJS Course from Udemy (FOR FREE 🤫🧏🏻‍♂️)](https://www.udemy.com/course/the-ultimate-react-course)
->
-> ### Intro & Theories:
->  | File                                                                                                                                                                          | Topic                                      |
-> | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
-> | [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/001 Intro & Theories/001 Frameworks, Why\|001 Frameworks, Why]]                                     | Frameworks                                 |
-> | [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/001 Intro & Theories/002 What is React\|002 What is React]]                                         | React                                      |
-> | [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/001 Intro & Theories/003 Options in creating React Project\|003 Options in creating React Project]] | Setup                                      |
-> | [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/001 Intro & Theories/004 Separation of Concerns\|004 Separation of Concerns]]                       | Separation of Concerns                     |
-> | [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/001 Intro & Theories/005 Component, Props & State\|005 Component, Props & State]]                   | Props, Immutability, and One-Way Data Flow |
-> 
+
+ Currently taking:
+  - [Jonas Schmedtmann's ReactJS Course from Udemy (FOR FREE 🤫🧏🏻‍♂️)](https://www.udemy.com/course/the-ultimate-react-course)
+
+
+
+ ### Intro & Theories:
+| File                                                                                                                                                                          | Topic                                      |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/001 Intro & Theories/001 Frameworks, Why\|001 Frameworks, Why]]                                     | Frameworks                                 |
+| [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/001 Intro & Theories/002 What is React\|002 What is React]]                                         | React                                      |
+| [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/001 Intro & Theories/003 Options in creating React Project\|003 Options in creating React Project]] | Setup                                      |
+| [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/001 Intro & Theories/004 Separation of Concerns\|004 Separation of Concerns]]                       | Separation of Concerns                     |
+| [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/001 Intro & Theories/005 Component, Props & State\|005 Component, Props & State]]                   | Props, Immutability, and One-Way Data Flow |
+
 { .block-language-dataview}
-> ### Components:
->  | File                                                                                                                                                                        | Topic      |
-> | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-> | [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/002 Components/001 Render Root Component & Strict Mode\|001 Render Root Component & Strict Mode]] | Components |
-> | [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/002 Components/002 Components as Building Blocks\|002 Components as Building Blocks]]             | Components |
-> | [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/002 Components/003 Creating and Reusing a Component\|003 Creating and Reusing a Component]]       | Components |
-> | [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/002 Components/004 Sample  Component Logic\|004 Sample  Component Logic]]                         | Components |
-> 
+### Components:
+| File                                                                                                                                                                        | Topic      |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/002 Components/001 Render Root Component & Strict Mode\|001 Render Root Component & Strict Mode]] | Components |
+| [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/002 Components/002 Components as Building Blocks\|002 Components as Building Blocks]]             | Components |
+| [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/002 Components/003 Creating and Reusing a Component\|003 Creating and Reusing a Component]]       | Components |
+| [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/002 Components/004 Sample  Component Logic\|004 Sample  Component Logic]]                         | Components |
+
 { .block-language-dataview}
-> ### JSX:
->  | File                                                                                                                                               | Topic         |
-> | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-> | [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/003 JSX/001 What is JSX\|001 What is JSX]]                               | JSX           |
-> | [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/003 JSX/002 Imperative vs Declarative\|002 Imperative vs Declarative]]   | JSX           |
-> | [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/003 JSX/003 Styling React Applications\|003 Styling React Applications]] | React Styling |
-> | [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/003 JSX/004  Rules of JSX\|004  Rules of JSX]]                           | JSX           |
-> 
+### JSX:
+| File                                                                                                                                                                                 | Topic                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------- |
+| [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/003 JSX/001 What is JSX\|001 What is JSX]]                                                                 | JSX                                 |
+| [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/003 JSX/002 Imperative vs Declarative\|002 Imperative vs Declarative]]                                     | JSX                                 |
+| [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/003 JSX/003 Styling React Applications\|003 Styling React Applications]]                                   | React Styling                       |
+| [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/003 JSX/004  Rules of JSX\|004  Rules of JSX]]                                                             | JSX                                 |
+| [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/003 JSX/005 Conditional Rendering with &&\|005 Conditional Rendering with &&]]                             | Conditional Rendering               |
+| [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/003 JSX/005 Conditional Rendering with Ternaries\|005 Conditional Rendering with Ternaries]]               | Conditional Rendering               |
+| [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/003 JSX/006 Conditional Rendering with Multiple Returns\|006 Conditional Rendering with Multiple Returns]] | Conditional Rendering               |
+| [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/002 Components/007 Extracting JSX into a New Component\|007 Extracting JSX into a New Component]]          | Extracting JSX into a New Component |
+
 { .block-language-dataview}
 
+---
 
 
-### All uploaded notes:
-
-> [!caution] To-Do:
+> [!caution] My To-Do:
 > - Make sections for each topics/subjects to make it look organized.
 
-
+### All uploaded notes:
 - [[Rogee's Notes\|Rogee's Notes]]
 - [[LEARNING/Absorb TEXTBOOKS like a Sponge\|Absorb TEXTBOOKS like a Sponge]]
 - [[LEARNING/How to accomplish Goals for 2024 by Iman Gadzhi\|How to accomplish Goals for 2024 by Iman Gadzhi]]
@@ -189,6 +199,7 @@
 - [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 4/05 More strings and lists/08 Last Exercise\|08 Last Exercise]]
 - [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 5/Part 5\|Part 5]]
 - [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 5/01 More Lists/0.5.5 Sudoku Problem\|0.5.5 Sudoku Problem]]
+- [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 5/01 More Lists/01 Lists with different types of data\|01 Lists with different types of data]]
 - [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 5/01 More Lists/01.5 Using global variables within functions\|01.5 Using global variables within functions]]
 - [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 5/01 More Lists/01.5.5  Overwriting a parameter and Returning Too Early\|01.5.5  Overwriting a parameter and Returning Too Early]]
 - [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 5/01 More Lists/02 Lists within lists\|02 Lists within lists]]
@@ -285,10 +296,10 @@
 - [[PROGRAMMING/Python/Netacad Python Essentials/Python Essentials 2 - INTERMEDIATE/Module 2 - Strings, String and List Methods, ExceptionsExternal tool\|Module 2 - Strings, String and List Methods, ExceptionsExternal tool]]
 - [[PROGRAMMING/Python/Netacad Python Essentials/Python Essentials 2 - INTERMEDIATE/Module 3 - Object-Oriented ProgrammingExternal tool\|Module 3 - Object-Oriented ProgrammingExternal tool]]
 - [[PROGRAMMING/Python/Netacad Python Essentials/Python Essentials 2 - INTERMEDIATE/Module 4 - MiscellaneousExternal tool\|Module 4 - MiscellaneousExternal tool]]
-- [[PROGRAMMING/Web Development/Backend/MySQL/01 MySQL\|01 MySQL]]
-- [[PROGRAMMING/Web Development/Backend/MySQL/Insert Data to MySQL\|Insert Data to MySQL]]
-- [[PROGRAMMING/Web Development/Backend/MySQL/MySQL\|MySQL]]
-- [[PROGRAMMING/Web Development/Backend/MySQL/PHP query MySQL\|PHP query MySQL]]
+- [[PROGRAMMING/Web Development/Backend/Database/MySQL/01 MySQL\|01 MySQL]]
+- [[PROGRAMMING/Web Development/Backend/Database/MySQL/Insert Data to MySQL\|Insert Data to MySQL]]
+- [[PROGRAMMING/Web Development/Backend/Database/MySQL/MySQL\|MySQL]]
+- [[PROGRAMMING/Web Development/Backend/Database/MySQL/PHP query MySQL\|PHP query MySQL]]
 - [[PROGRAMMING/Web Development/Backend/PHP/0 PHP\|0 PHP]]
 - [[PROGRAMMING/Web Development/Backend/PHP/Hashing\|Hashing]]
 - [[PROGRAMMING/Web Development/Backend/PHP/Routing\|Routing]]
