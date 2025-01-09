@@ -1,8 +1,8 @@
 # This is the repository for my Learning Notes from Obsidian.
 You can view my notes here: https://jrogeet-notes.vercel.app/
 
-### Warning ⚠️
-It currently has some performance issues due to some errors when publishing it with Vercel.
+### ⚠️ Warning 
+You will experience some performance issues due to some errors when publishing it with Vercel.
 Which will be fixed as soon as I got some spare time.
 ---
 
