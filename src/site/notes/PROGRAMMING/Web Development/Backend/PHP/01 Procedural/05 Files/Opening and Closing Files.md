@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/backend/php/01-procedural/05-files/opening-and-closing-files/","tags":["programming","php","webdevelopment","backend"]}
+{"dg-publish":true,"permalink":"/programming/web-development/backend/php/01-procedural/05-files/opening-and-closing-files/","tags":["programming","php","webdevelopment","backend"],"created":"2024-11-09T11:30:30.659+08:00"}
 ---
 
 

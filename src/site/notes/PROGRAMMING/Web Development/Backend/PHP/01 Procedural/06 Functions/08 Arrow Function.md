@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/backend/php/01-procedural/06-functions/08-arrow-function/","tags":["programming","php","webdevelopment","backend"]}
+{"dg-publish":true,"permalink":"/programming/web-development/backend/php/01-procedural/06-functions/08-arrow-function/","tags":["programming","php","webdevelopment","backend"],"created":"2024-11-09T11:30:30.382+08:00"}
 ---
 
 --- 

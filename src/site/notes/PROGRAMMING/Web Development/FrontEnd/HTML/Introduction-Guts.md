@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/html/introduction-guts/","tags":["programming","webdevelopment","frontend","HTML"]}
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/html/introduction-guts/","tags":["programming","webdevelopment","frontend","HTML"],"created":"2024-11-09T11:31:11.230+08:00"}
 ---
 
 # HTML

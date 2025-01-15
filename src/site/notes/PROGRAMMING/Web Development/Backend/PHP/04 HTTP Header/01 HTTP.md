@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/backend/php/04-http-header/01-http/","tags":["programming","php","webdevelopment","backend","HTTP"]}
+{"dg-publish":true,"permalink":"/programming/web-development/backend/php/04-http-header/01-http/","tags":["programming","php","webdevelopment","backend","HTTP"],"created":"2024-11-09T11:30:26.037+08:00"}
 ---
 
 

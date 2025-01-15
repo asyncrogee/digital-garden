@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/03-objects/03-garbage-collection/01-reachability/","tags":["programming","webdevelopment","frontend","JavaScript"]}
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/03-objects/03-garbage-collection/01-reachability/","tags":["programming","webdevelopment","frontend","JavaScript"],"created":"2024-11-09T11:30:39.360+08:00"}
 ---
 
 

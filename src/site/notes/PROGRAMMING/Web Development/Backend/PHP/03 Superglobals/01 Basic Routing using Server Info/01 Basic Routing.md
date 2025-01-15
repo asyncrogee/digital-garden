@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/backend/php/03-superglobals/01-basic-routing-using-server-info/01-basic-routing/","tags":["programming","php","webdevelopment","backend","SUPERGLOBALS"]}
+{"dg-publish":true,"permalink":"/programming/web-development/backend/php/03-superglobals/01-basic-routing-using-server-info/01-basic-routing/","tags":["programming","php","webdevelopment","backend","SUPERGLOBALS"],"created":"2024-11-09T11:30:30.838+08:00"}
 ---
 
 

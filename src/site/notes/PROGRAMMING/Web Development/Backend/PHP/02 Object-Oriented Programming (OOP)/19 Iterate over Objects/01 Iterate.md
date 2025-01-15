@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/backend/php/02-object-oriented-programming-oop/19-iterate-over-objects/01-iterate/","tags":["programming","php","webdevelopment","backend","OOP"]}
+{"dg-publish":true,"permalink":"/programming/web-development/backend/php/02-object-oriented-programming-oop/19-iterate-over-objects/01-iterate/","tags":["programming","php","webdevelopment","backend","OOP"],"created":"2024-11-09T11:30:32.843+08:00"}
 ---
 
 

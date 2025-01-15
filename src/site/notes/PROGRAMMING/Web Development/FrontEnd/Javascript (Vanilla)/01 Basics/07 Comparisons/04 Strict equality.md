@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/01-basics/07-comparisons/04-strict-equality/","tags":["programming","webdevelopment","frontend","JavaScript"]}
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/01-basics/07-comparisons/04-strict-equality/","tags":["programming","webdevelopment","frontend","JavaScript"],"created":"2024-11-09T11:30:41.751+08:00"}
 ---
 
 

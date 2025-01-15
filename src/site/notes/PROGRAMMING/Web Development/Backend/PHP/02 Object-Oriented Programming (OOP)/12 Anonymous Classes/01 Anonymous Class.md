@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/backend/php/02-object-oriented-programming-oop/12-anonymous-classes/01-anonymous-class/","tags":["programming","php","webdevelopment","backend","OOP"]}
+{"dg-publish":true,"permalink":"/programming/web-development/backend/php/02-object-oriented-programming-oop/12-anonymous-classes/01-anonymous-class/","tags":["programming","php","webdevelopment","backend","OOP"],"created":"2024-11-09T11:30:32.249+08:00"}
 ---
 
 

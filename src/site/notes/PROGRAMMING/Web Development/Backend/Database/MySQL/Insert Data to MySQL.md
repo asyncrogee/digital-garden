@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/backend/database/my-sql/insert-data-to-my-sql/","tags":["programming","webdevelopment","backend","MySQL","PHP"]}
+{"dg-publish":true,"permalink":"/programming/web-development/backend/database/my-sql/insert-data-to-my-sql/","tags":["programming","webdevelopment","backend","MySQL","PHP"],"created":"2024-11-09T11:30:31.279+08:00"}
 ---
 
 

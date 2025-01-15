@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/dom/03-handling-click-events/","tags":["programming","webdevelopment","frontend","JavaScript"]}
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/dom/03-handling-click-events/","tags":["programming","webdevelopment","frontend","JavaScript"],"created":"2024-11-09T11:30:33.159+08:00"}
 ---
 
 

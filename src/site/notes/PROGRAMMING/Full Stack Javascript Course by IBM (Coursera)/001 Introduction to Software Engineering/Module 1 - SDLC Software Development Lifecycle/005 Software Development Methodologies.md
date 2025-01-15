@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/full-stack-javascript-course-by-ibm-coursera/001-introduction-to-software-engineering/module-1-sdlc-software-development-lifecycle/005-software-development-methodologies/","tags":["programming","softwareengineering","softwaredevelopment","SDLC"]}
+{"dg-publish":true,"permalink":"/programming/full-stack-javascript-course-by-ibm-coursera/001-introduction-to-software-engineering/module-1-sdlc-software-development-lifecycle/005-software-development-methodologies/","tags":["programming","softwareengineering","softwaredevelopment","SDLC"],"created":"2024-12-07T14:27:14.030+08:00"}
 ---
 
 

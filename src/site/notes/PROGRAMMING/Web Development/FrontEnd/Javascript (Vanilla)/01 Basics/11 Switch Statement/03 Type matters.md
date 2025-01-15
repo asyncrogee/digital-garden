@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/01-basics/11-switch-statement/03-type-matters/","tags":["programming","webdevelopment","frontend","JavaScript"]}
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/01-basics/11-switch-statement/03-type-matters/","tags":["programming","webdevelopment","frontend","JavaScript"],"created":"2024-11-09T11:30:42.033+08:00"}
 ---
 
 # 03 Type matters

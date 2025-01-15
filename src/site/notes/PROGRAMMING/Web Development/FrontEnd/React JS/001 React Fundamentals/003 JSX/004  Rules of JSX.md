@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/react-js/001-react-fundamentals/003-jsx/004-rules-of-jsx/","tags":["programming","ReactJS","javascript","jsx"]}
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/react-js/001-react-fundamentals/003-jsx/004-rules-of-jsx/","tags":["programming","ReactJS","javascript","jsx"],"created":"2024-12-28T15:10:18.139+08:00"}
 ---
 
 > [!abstract] General JSX Rules

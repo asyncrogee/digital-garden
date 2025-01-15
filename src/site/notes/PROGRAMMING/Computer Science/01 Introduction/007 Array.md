@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/computer-science/01-introduction/007-array/","tags":["computerscience","cs50","c_lang","#array"]}
+{"dg-publish":true,"permalink":"/programming/computer-science/01-introduction/007-array/","tags":["computerscience","cs50","c_lang","#array"],"created":"2024-11-09T11:30:10.826+08:00"}
 ---
 
 

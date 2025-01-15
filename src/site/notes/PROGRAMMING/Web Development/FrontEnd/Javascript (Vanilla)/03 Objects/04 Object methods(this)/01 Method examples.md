@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/03-objects/04-object-methods-this/01-method-examples/","tags":["programming","webdevelopment","frontend","JavaScript"]}
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/03-objects/04-object-methods-this/01-method-examples/","tags":["programming","webdevelopment","frontend","JavaScript"],"created":"2024-11-09T11:30:39.554+08:00"}
 ---
 
 

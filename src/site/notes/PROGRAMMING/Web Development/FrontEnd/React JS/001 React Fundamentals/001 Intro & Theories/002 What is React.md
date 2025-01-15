@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/react-js/001-react-fundamentals/001-intro-and-theories/002-what-is-react/","tags":["programming","ReactJS","javascript","reactjsintro"]}
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/react-js/001-react-fundamentals/001-intro-and-theories/002-what-is-react/","tags":["programming","ReactJS","javascript","reactjsintro"],"created":"2024-12-24T14:06:43.983+08:00"}
 ---
 
 

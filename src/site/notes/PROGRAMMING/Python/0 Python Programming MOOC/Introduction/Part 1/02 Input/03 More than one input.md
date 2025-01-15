@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/python/0-python-programming-mooc/introduction/part-1/02-input/03-more-than-one-input/"}
+{"dg-publish":true,"permalink":"/programming/python/0-python-programming-mooc/introduction/part-1/02-input/03-more-than-one-input/","created":"2024-11-09T11:30:52.304+08:00"}
 ---
 
 Author: [University of Helsinki](https://programming-23.mooc.fi/)

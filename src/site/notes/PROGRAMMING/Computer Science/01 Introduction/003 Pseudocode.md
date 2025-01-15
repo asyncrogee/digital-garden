@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/computer-science/01-introduction/003-pseudocode/","tags":["computerscience","cs50","c_lang"]}
+{"dg-publish":true,"permalink":"/programming/computer-science/01-introduction/003-pseudocode/","tags":["computerscience","cs50","c_lang"],"created":"2024-11-09T11:30:10.790+08:00"}
 ---
 
 - The ability to create _pseudocode_ is central to one’s success in both this class and in computer programming.

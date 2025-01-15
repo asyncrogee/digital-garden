@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/backend/php/sanitize/","tags":["programming","php","webdevelopment","backend"]}
+{"dg-publish":true,"permalink":"/programming/web-development/backend/php/sanitize/","tags":["programming","php","webdevelopment","backend"],"created":"2024-11-09T11:30:31.169+08:00"}
 ---
 
 Prevent __USER INPUT__ that is a `CODE` from __EXECUTING__ when inputted.

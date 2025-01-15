@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/backend/php/01-procedural/01-procedural/","tags":["programming","php","webdevelopment","backend"]}
+{"dg-publish":true,"permalink":"/programming/web-development/backend/php/01-procedural/01-procedural/","tags":["programming","php","webdevelopment","backend"],"created":"2024-11-09T11:30:30.721+08:00"}
 ---
 
 # Syntax

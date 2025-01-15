@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/03-objects/08-object-to-primitive-conversion/02-symbol-to-primitive/","tags":["programming","webdevelopment","frontend","JavaScript"]}
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/03-objects/08-object-to-primitive-conversion/02-symbol-to-primitive/","tags":["programming","webdevelopment","frontend","JavaScript"],"created":"2024-11-09T11:30:33.382+08:00"}
 ---
 
 

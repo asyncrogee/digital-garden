@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/react-js/001-react-fundamentals/002-components/002-components-as-building-blocks/","tags":["programming","ReactJS","javascript","components"]}
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/react-js/001-react-fundamentals/002-components/002-components-as-building-blocks/","tags":["programming","ReactJS","javascript","components"],"created":"2024-12-28T14:42:16.642+08:00"}
 ---
 
 

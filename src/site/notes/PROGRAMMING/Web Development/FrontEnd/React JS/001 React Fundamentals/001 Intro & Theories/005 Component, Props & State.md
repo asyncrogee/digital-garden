@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/react-js/001-react-fundamentals/001-intro-and-theories/005-component-props-and-state/","tags":["programming","ReactJS","javascript","props","state","components","reactjsintro"]}
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/react-js/001-react-fundamentals/001-intro-and-theories/005-component-props-and-state/","tags":["programming","ReactJS","javascript","props","state","components","reactjsintro"],"created":"2024-12-29T01:29:13.208+08:00"}
 ---
 
 ---

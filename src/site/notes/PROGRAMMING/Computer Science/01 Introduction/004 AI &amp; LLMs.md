@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/computer-science/01-introduction/004-ai-and-amp-ll-ms/","tags":["computerscience","cs50","c_lang"]}
+{"dg-publish":true,"permalink":"/programming/computer-science/01-introduction/004-ai-and-amp-ll-ms/","tags":["computerscience","cs50","c_lang"],"created":"2024-11-09T11:30:10.812+08:00"}
 ---
 
 -   Consider how we can utilize the building blocks above to start creating our own artificial intelligence. Look at the following pseudocode:

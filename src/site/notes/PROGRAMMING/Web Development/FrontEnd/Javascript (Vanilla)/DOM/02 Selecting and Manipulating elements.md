@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/dom/02-selecting-and-manipulating-elements/","tags":["programming","webdevelopment","frontend","JavaScript"]}
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/dom/02-selecting-and-manipulating-elements/","tags":["programming","webdevelopment","frontend","JavaScript"],"created":"2024-11-09T11:30:33.141+08:00"}
 ---
 
 

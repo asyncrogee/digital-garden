@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/backend/php/02-object-oriented-programming-oop/01-classes-and-objects/01-class/","tags":["programming","php","webdevelopment","backend","OOP"]}
+{"dg-publish":true,"permalink":"/programming/web-development/backend/php/02-object-oriented-programming-oop/01-classes-and-objects/01-class/","tags":["programming","php","webdevelopment","backend","OOP"],"created":"2024-11-09T11:30:31.364+08:00"}
 ---
 
 

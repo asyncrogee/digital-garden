@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/backend/php/01-procedural/02-data-types/04-float/","tags":["programming","php","webdevelopment","backend"]}
+{"dg-publish":true,"permalink":"/programming/web-development/backend/php/01-procedural/02-data-types/04-float/","tags":["programming","php","webdevelopment","backend"],"created":"2024-11-09T11:30:29.938+08:00"}
 ---
 
 # Float Data Type

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/backend/php/01-procedural/02-data-types/02-boolean/","tags":["programming","php","webdevelopment","backend"]}
+{"dg-publish":true,"permalink":"/programming/web-development/backend/php/01-procedural/02-data-types/02-boolean/","tags":["programming","php","webdevelopment","backend"],"created":"2024-11-09T11:30:29.982+08:00"}
 ---
 
 # Boolean Data Type

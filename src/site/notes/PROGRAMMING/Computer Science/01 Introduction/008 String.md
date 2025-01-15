@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/computer-science/01-introduction/008-string/","tags":["computerscience","cs50","c_lang","#strings"]}
+{"dg-publish":true,"permalink":"/programming/computer-science/01-introduction/008-string/","tags":["computerscience","cs50","c_lang","#strings"],"created":"2024-11-09T11:30:11.101+08:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/git/09-renaming-or-moving-files/","tags":["programming","Git"]}
+{"dg-publish":true,"permalink":"/programming/git/09-renaming-or-moving-files/","tags":["programming","Git"],"created":"2024-11-09T11:30:17.904+08:00"}
 ---
 
 

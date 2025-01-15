@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/backend/php/02-object-oriented-programming-oop/11-traits/02-traits/","tags":["programming","php","webdevelopment","backend","OOP"]}
+{"dg-publish":true,"permalink":"/programming/web-development/backend/php/02-object-oriented-programming-oop/11-traits/02-traits/","tags":["programming","php","webdevelopment","backend","OOP"],"created":"2024-11-09T11:30:32.113+08:00"}
 ---
 
 

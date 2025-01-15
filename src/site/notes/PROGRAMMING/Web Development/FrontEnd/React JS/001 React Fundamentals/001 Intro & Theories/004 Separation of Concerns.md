@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/react-js/001-react-fundamentals/001-intro-and-theories/004-separation-of-concerns/","tags":["programming","ReactJS","javascript","reactjsintro"]}
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/react-js/001-react-fundamentals/001-intro-and-theories/004-separation-of-concerns/","tags":["programming","ReactJS","javascript","reactjsintro"],"created":"2024-12-28T17:27:03.370+08:00"}
 ---
 
 ---

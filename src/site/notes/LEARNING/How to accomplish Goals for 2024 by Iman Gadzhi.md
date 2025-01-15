@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/how-to-accomplish-goals-for-2024-by-iman-gadzhi/"}
+{"dg-publish":true,"permalink":"/learning/how-to-accomplish-goals-for-2024-by-iman-gadzhi/","created":"2024-11-09T11:30:40.074+08:00"}
 ---
 
 https://www.youtube.com/watch?v=yra7h9vjXJU&t=151s&ab_channel=ImanGadzhi

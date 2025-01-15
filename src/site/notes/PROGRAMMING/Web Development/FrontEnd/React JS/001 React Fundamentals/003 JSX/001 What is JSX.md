@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/react-js/001-react-fundamentals/003-jsx/001-what-is-jsx/","tags":["programming","ReactJS","javascript","jsx"]}
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/react-js/001-react-fundamentals/003-jsx/001-what-is-jsx/","tags":["programming","ReactJS","javascript","jsx"],"created":"2024-12-28T15:10:21.525+08:00"}
 ---
 
 > [!abstract] JSX

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/01-basics/12-functions/01-function-declaration/","tags":["programming","webdevelopment","frontend","JavaScript"]}
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/01-basics/12-functions/01-function-declaration/","tags":["programming","webdevelopment","frontend","JavaScript"],"created":"2024-11-09T11:30:42.532+08:00"}
 ---
 
 

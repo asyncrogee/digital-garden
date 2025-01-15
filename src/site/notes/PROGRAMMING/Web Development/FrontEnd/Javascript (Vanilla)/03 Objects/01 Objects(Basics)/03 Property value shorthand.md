@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/03-objects/01-objects-basics/03-property-value-shorthand/","tags":["programming","webdevelopment","frontend","JavaScript"]}
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/03-objects/01-objects-basics/03-property-value-shorthand/","tags":["programming","webdevelopment","frontend","JavaScript"],"created":"2024-11-09T11:30:39.443+08:00"}
 ---
 
 

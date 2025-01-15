@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/react-js/00-essential-java-script/06-short-circuiting-and-logical-operators-and-and/","tags":["programming","jsbasics","javascript","JS-Fundamentals"]}
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/react-js/00-essential-java-script/06-short-circuiting-and-logical-operators-and-and/","tags":["programming","jsbasics","javascript","JS-Fundamentals"],"created":"2024-12-24T17:38:05.003+08:00"}
 ---
 
 

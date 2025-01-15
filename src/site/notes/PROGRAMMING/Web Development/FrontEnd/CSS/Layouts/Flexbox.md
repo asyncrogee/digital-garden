@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/css/layouts/flexbox/","tags":["programming","webdevelopment","frontend","css"]}
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/css/layouts/flexbox/","tags":["programming","webdevelopment","frontend","css"],"created":"2024-11-09T11:30:41.417+08:00"}
 ---
 
 

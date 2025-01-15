@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/02-code-quality/02-coding-style/","tags":["programming","webdevelopment","frontend","JavaScript"]}
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/02-code-quality/02-coding-style/","tags":["programming","webdevelopment","frontend","JavaScript"],"created":"2024-11-09T11:30:39.053+08:00"}
 ---
 
 ## Clean Code Cheat Sheet

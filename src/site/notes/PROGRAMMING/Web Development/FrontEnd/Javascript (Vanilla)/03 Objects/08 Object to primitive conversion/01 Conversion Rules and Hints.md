@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/03-objects/08-object-to-primitive-conversion/01-conversion-rules-and-hints/","tags":["programming","webdevelopment","frontend","JavaScript"]}
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/03-objects/08-object-to-primitive-conversion/01-conversion-rules-and-hints/","tags":["programming","webdevelopment","frontend","JavaScript"],"created":"2024-11-09T11:30:33.434+08:00"}
 ---
 
 

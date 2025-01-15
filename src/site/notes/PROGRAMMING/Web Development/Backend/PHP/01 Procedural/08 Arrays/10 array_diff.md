@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/backend/php/01-procedural/08-arrays/10-array-diff/","tags":["programming","php","webdevelopment","backend"]}
+{"dg-publish":true,"permalink":"/programming/web-development/backend/php/01-procedural/08-arrays/10-array-diff/","tags":["programming","php","webdevelopment","backend"],"created":"2024-11-09T11:30:30.562+08:00"}
 ---
 
 

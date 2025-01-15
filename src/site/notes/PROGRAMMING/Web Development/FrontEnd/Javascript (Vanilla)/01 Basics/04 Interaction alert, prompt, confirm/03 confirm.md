@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/01-basics/04-interaction-alert-prompt-confirm/03-confirm/","tags":["programming","webdevelopment","frontend","JavaScript"]}
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/01-basics/04-interaction-alert-prompt-confirm/03-confirm/","tags":["programming","webdevelopment","frontend","JavaScript"],"created":"2024-11-09T11:30:41.656+08:00"}
 ---
 
 

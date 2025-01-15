@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/backend/php/03-superglobals/03-session-and-cookie/02-cookie/","tags":["programming","php","webdevelopment","backend","SUPERGLOBALS"]}
+{"dg-publish":true,"permalink":"/programming/web-development/backend/php/03-superglobals/03-session-and-cookie/02-cookie/","tags":["programming","php","webdevelopment","backend","SUPERGLOBALS"],"created":"2024-11-09T11:30:31.015+08:00"}
 ---
 
 

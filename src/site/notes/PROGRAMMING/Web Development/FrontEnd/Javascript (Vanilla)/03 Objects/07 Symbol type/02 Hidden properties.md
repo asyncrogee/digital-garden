@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/03-objects/07-symbol-type/02-hidden-properties/","tags":["programming","webdevelopment","frontend","JavaScript"]}
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/03-objects/07-symbol-type/02-hidden-properties/","tags":["programming","webdevelopment","frontend","JavaScript"],"created":"2024-11-09T11:30:39.529+08:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/03-objects/05-constructor-operator-new/04-methods-in-constructor/","tags":["programming","webdevelopment","frontend","JavaScript"]}
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/03-objects/05-constructor-operator-new/04-methods-in-constructor/","tags":["programming","webdevelopment","frontend","JavaScript"],"created":"2024-11-09T11:30:39.512+08:00"}
 ---
 
 # Methods in constructor

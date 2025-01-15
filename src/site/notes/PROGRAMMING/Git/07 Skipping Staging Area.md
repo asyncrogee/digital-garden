@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/git/07-skipping-staging-area/","tags":["programming","Git"]}
+{"dg-publish":true,"permalink":"/programming/git/07-skipping-staging-area/","tags":["programming","Git"],"created":"2024-11-09T11:30:17.892+08:00"}
 ---
 
 

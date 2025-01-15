@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/04-data-types/01-numbers/03-to-string-base/","tags":["programming","webdevelopment","frontend","JavaScript"]}
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/04-data-types/01-numbers/03-to-string-base/","tags":["programming","webdevelopment","frontend","JavaScript"],"created":"2024-11-09T11:30:33.271+08:00"}
 ---
 
 

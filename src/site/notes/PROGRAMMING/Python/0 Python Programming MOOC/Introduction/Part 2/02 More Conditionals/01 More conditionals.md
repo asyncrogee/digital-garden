@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/python/0-python-programming-mooc/introduction/part-2/02-more-conditionals/01-more-conditionals/"}
+{"dg-publish":true,"permalink":"/programming/python/0-python-programming-mooc/introduction/part-2/02-more-conditionals/01-more-conditionals/","created":"2024-11-09T11:30:52.632+08:00"}
 ---
 
 Author: [University of Helsinki](https://programming-23.mooc.fi/)

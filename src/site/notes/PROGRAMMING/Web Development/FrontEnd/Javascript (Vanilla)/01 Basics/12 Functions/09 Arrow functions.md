@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/01-basics/12-functions/09-arrow-functions/","tags":["programming","webdevelopment","frontend","JavaScript"]}
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/01-basics/12-functions/09-arrow-functions/","tags":["programming","webdevelopment","frontend","JavaScript"],"created":"2024-11-09T11:30:42.542+08:00"}
 ---
 
 # Arrow functions

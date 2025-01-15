@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/full-stack-javascript-course-by-ibm-coursera/001-introduction-to-software-engineering/module-1-sdlc-software-development-lifecycle/001-what-is-software-engineering/","tags":["programming","softwareengineering","softwaredevelopment","SDLC"]}
+{"dg-publish":true,"permalink":"/programming/full-stack-javascript-course-by-ibm-coursera/001-introduction-to-software-engineering/module-1-sdlc-software-development-lifecycle/001-what-is-software-engineering/","tags":["programming","softwareengineering","softwaredevelopment","SDLC"],"created":"2024-12-05T16:28:02.391+08:00"}
 ---
 
 

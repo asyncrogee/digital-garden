@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/01-basics/01-code-structure/01-statements-and-semicolons/","tags":["programming","webdevelopment","frontend","JavaScript"]}
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/01-basics/01-code-structure/01-statements-and-semicolons/","tags":["programming","webdevelopment","frontend","JavaScript"],"created":"2024-11-09T11:30:41.935+08:00"}
 ---
 
 # 01 Statements and Semicolons

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/02-code-quality/03-automated-testing-with-mocha/","tags":["programming","webdevelopment","frontend","JavaScript"]}
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/02-code-quality/03-automated-testing-with-mocha/","tags":["programming","webdevelopment","frontend","JavaScript"],"created":"2024-11-09T11:30:39.188+08:00"}
 ---
 
 ---

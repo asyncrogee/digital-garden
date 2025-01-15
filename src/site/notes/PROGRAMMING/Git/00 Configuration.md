@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/git/00-configuration/","tags":["programming","Git"]}
+{"dg-publish":true,"permalink":"/programming/git/00-configuration/","tags":["programming","Git"],"created":"2024-11-09T11:30:17.837+08:00"}
 ---
 
 ![[Pasted image 20240709151534.png \| 300]]

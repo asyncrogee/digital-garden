@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/full-stack-javascript-course-by-ibm-coursera/001-introduction-to-software-engineering/module-1-sdlc-software-development-lifecycle/003-building-quality-software/","tags":["programming","softwareengineering","softwaredevelopment","SDLC"]}
+{"dg-publish":true,"permalink":"/programming/full-stack-javascript-course-by-ibm-coursera/001-introduction-to-software-engineering/module-1-sdlc-software-development-lifecycle/003-building-quality-software/","tags":["programming","softwareengineering","softwaredevelopment","SDLC"],"created":"2024-12-05T20:03:25.350+08:00"}
 ---
 
 

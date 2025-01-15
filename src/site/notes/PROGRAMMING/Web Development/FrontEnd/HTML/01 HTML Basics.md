@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/html/01-html-basics/","tags":["programming","webdevelopment","frontend","HTML"]}
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/html/01-html-basics/","tags":["programming","webdevelopment","frontend","HTML"],"created":"2024-11-09T11:31:48.477+08:00"}
 ---
 
 SHORTCUTS:

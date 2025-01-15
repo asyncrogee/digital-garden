@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/git/01-initialize-repository/","tags":["programming","Git"]}
+{"dg-publish":true,"permalink":"/programming/git/01-initialize-repository/","tags":["programming","Git"],"created":"2024-11-09T11:30:17.846+08:00"}
 ---
 
 - Go/Change Directory to Project Folder

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/python/netacad-python-essentials/python-essentials-1-basics/module-1-introduction-to-python-and-computer-programming/"}
+{"dg-publish":true,"permalink":"/programming/python/netacad-python-essentials/python-essentials-1-basics/module-1-introduction-to-python-and-computer-programming/","created":"2024-11-09T11:31:09.358+08:00"}
 ---
 
 # Python Essentials 1:  

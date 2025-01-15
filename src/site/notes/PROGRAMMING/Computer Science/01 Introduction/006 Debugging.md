@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/computer-science/01-introduction/006-debugging/","tags":["computerscience","cs50","c_lang","#debugging"]}
+{"dg-publish":true,"permalink":"/programming/computer-science/01-introduction/006-debugging/","tags":["computerscience","cs50","c_lang","#debugging"],"created":"2024-11-09T11:30:10.819+08:00"}
 ---
 
 

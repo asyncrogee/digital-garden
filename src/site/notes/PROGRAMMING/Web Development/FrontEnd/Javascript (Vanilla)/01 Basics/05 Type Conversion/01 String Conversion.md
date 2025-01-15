@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/01-basics/05-type-conversion/01-string-conversion/","tags":["programming","webdevelopment","frontend","JavaScript"]}
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/01-basics/05-type-conversion/01-string-conversion/","tags":["programming","webdevelopment","frontend","JavaScript"],"created":"2024-11-09T11:30:41.802+08:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/computer-science/01-introduction/005-compiling/","tags":["computerscience","cs50","c_lang"]}
+{"dg-publish":true,"permalink":"/programming/computer-science/01-introduction/005-compiling/","tags":["computerscience","cs50","c_lang"],"created":"2024-11-09T11:30:10.805+08:00"}
 ---
 
 To compile and run programs:

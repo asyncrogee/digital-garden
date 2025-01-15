@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/backend/database/my-sql/my-sql/","tags":["programming","webdevelopment","backend","MySQL"]}
+{"dg-publish":true,"permalink":"/programming/web-development/backend/database/my-sql/my-sql/","tags":["programming","webdevelopment","backend","MySQL"],"created":"2024-11-09T11:30:26.109+08:00"}
 ---
 
 

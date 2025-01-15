@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/full-stack-javascript-course-by-ibm-coursera/001-introduction-to-software-engineering/module-3-basics-of-programming/001-interpreted-and-compiled-programming-languages/","tags":["programming","softwareengineering","softwaredevelopment","SDLC","interpretedlanguages","compiledlanguages","programminglanguages"]}
+{"dg-publish":true,"permalink":"/programming/full-stack-javascript-course-by-ibm-coursera/001-introduction-to-software-engineering/module-3-basics-of-programming/001-interpreted-and-compiled-programming-languages/","tags":["programming","softwareengineering","softwaredevelopment","SDLC","interpretedlanguages","compiledlanguages","programminglanguages"],"created":"2024-12-15T13:32:18.960+08:00"}
 ---
 
 

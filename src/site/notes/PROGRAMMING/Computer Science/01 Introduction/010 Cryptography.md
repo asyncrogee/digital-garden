@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/computer-science/01-introduction/010-cryptography/","tags":["computerscience","cs50","c_lang","#cryptography"]}
+{"dg-publish":true,"permalink":"/programming/computer-science/01-introduction/010-cryptography/","tags":["computerscience","cs50","c_lang","#cryptography"],"created":"2024-11-09T11:30:11.093+08:00"}
 ---
 
 -  Cryptography is the art of ciphering and deciphering a message.

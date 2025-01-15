@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/03-objects/02-object-references-and-copying/02-cloning-and-merging-object-assign/","tags":["programming","webdevelopment","frontend","JavaScript"]}
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/03-objects/02-object-references-and-copying/02-cloning-and-merging-object-assign/","tags":["programming","webdevelopment","frontend","JavaScript"],"created":"2024-11-09T11:30:39.412+08:00"}
 ---
 
 

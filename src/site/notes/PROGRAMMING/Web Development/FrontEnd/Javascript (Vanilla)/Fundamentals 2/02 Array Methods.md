@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/fundamentals-2/02-array-methods/","tags":["programming","webdevelopment","frontend","JavaScript"]}
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/fundamentals-2/02-array-methods/","tags":["programming","webdevelopment","frontend","JavaScript"],"created":"2024-11-09T11:30:42.625+08:00"}
 ---
 
 ---

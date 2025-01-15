@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/backend/php/01-procedural/08-arrays/05-array-map/","tags":["programming","php","webdevelopment","backend"]}
+{"dg-publish":true,"permalink":"/programming/web-development/backend/php/01-procedural/08-arrays/05-array-map/","tags":["programming","php","webdevelopment","backend"],"created":"2024-11-09T11:30:30.509+08:00"}
 ---
 
 

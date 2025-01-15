@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/react-js/001-react-fundamentals/004-props/001-passing-and-receiving-props/","tags":["programming","ReactJS","javascript","props"]}
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/react-js/001-react-fundamentals/004-props/001-passing-and-receiving-props/","tags":["programming","ReactJS","javascript","props"],"created":"2024-12-28T23:49:11.385+08:00"}
 ---
 
 ---

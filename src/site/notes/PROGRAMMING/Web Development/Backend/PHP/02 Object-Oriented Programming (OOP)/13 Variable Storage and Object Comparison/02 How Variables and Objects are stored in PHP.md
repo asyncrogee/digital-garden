@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/backend/php/02-object-oriented-programming-oop/13-variable-storage-and-object-comparison/02-how-variables-and-objects-are-stored-in-php/","tags":["programming","php","webdevelopment","backend","OOP"]}
+{"dg-publish":true,"permalink":"/programming/web-development/backend/php/02-object-oriented-programming-oop/13-variable-storage-and-object-comparison/02-how-variables-and-objects-are-stored-in-php/","tags":["programming","php","webdevelopment","backend","OOP"],"created":"2024-11-09T11:30:32.286+08:00"}
 ---
 
 

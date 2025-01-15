@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/03-objects/07-symbol-type/05-global-symbols/","tags":["programming","webdevelopment","frontend","JavaScript"]}
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/03-objects/07-symbol-type/05-global-symbols/","tags":["programming","webdevelopment","frontend","JavaScript"],"created":"2024-11-09T11:30:33.355+08:00"}
 ---
 
 # Global Symbols

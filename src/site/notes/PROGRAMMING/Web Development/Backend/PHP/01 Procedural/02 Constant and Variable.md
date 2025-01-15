@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/backend/php/01-procedural/02-constant-and-variable/","tags":["programming","php","webdevelopment","backend"]}
+{"dg-publish":true,"permalink":"/programming/web-development/backend/php/01-procedural/02-constant-and-variable/","tags":["programming","php","webdevelopment","backend"],"created":"2024-11-09T11:30:29.797+08:00"}
 ---
 
 # Constant & Variables

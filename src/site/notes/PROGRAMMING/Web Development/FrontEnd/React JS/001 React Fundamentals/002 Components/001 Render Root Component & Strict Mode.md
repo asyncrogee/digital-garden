@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/react-js/001-react-fundamentals/002-components/001-render-root-component-and-strict-mode/","tags":["programming","ReactJS","javascript","components"]}
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/react-js/001-react-fundamentals/002-components/001-render-root-component-and-strict-mode/","tags":["programming","ReactJS","javascript","components"],"created":"2024-12-28T13:59:31.141+08:00"}
 ---
 
 ## Rendering Root in React 18

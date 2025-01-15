@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/react-js/001-react-fundamentals/001-intro-and-theories/003-options-in-creating-react-project/","tags":["programming","ReactJS","javascript","reactjsintro"]}
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/react-js/001-react-fundamentals/001-intro-and-theories/003-options-in-creating-react-project/","tags":["programming","ReactJS","javascript","reactjsintro"],"created":"2024-12-24T14:55:16.264+08:00"}
 ---
 
 

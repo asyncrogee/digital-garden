@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/03-objects/05-constructor-operator-new/02-constructor-mode-test-new-target/","tags":["programming","webdevelopment","frontend","JavaScript"]}
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/03-objects/05-constructor-operator-new/02-constructor-mode-test-new-target/","tags":["programming","webdevelopment","frontend","JavaScript"],"created":"2024-11-09T11:30:39.495+08:00"}
 ---
 
 # Constructor mode test: new.target

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/git/010-ignoring-files/","tags":["programming","Git"]}
+{"dg-publish":true,"permalink":"/programming/git/010-ignoring-files/","tags":["programming","Git"],"created":"2024-11-09T11:30:17.922+08:00"}
 ---
 
 

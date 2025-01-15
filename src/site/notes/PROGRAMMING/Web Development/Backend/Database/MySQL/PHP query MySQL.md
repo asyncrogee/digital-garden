@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/backend/database/my-sql/php-query-my-sql/","tags":["programming","webdevelopment","backend","MySQL"]}
+{"dg-publish":true,"permalink":"/programming/web-development/backend/database/my-sql/php-query-my-sql/","tags":["programming","webdevelopment","backend","MySQL"],"created":"2024-11-09T11:30:31.261+08:00"}
 ---
 
 

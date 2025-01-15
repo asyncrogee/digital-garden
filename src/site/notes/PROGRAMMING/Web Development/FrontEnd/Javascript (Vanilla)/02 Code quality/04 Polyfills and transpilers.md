@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/02-code-quality/04-polyfills-and-transpilers/","tags":["programming","webdevelopment","frontend","JavaScript"]}
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/02-code-quality/04-polyfills-and-transpilers/","tags":["programming","webdevelopment","frontend","JavaScript"],"created":"2024-11-09T11:30:39.196+08:00"}
 ---
 
 ---

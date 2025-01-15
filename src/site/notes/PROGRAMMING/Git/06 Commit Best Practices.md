@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/git/06-commit-best-practices/","tags":["programming","Git"]}
+{"dg-publish":true,"permalink":"/programming/git/06-commit-best-practices/","tags":["programming","Git"],"created":"2024-11-09T11:30:17.883+08:00"}
 ---
 
 

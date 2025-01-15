@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/backend/php/01-procedural/03-operators/01-arithmetic-operators/","tags":["programming","php","webdevelopment","backend"]}
+{"dg-publish":true,"permalink":"/programming/web-development/backend/php/01-procedural/03-operators/01-arithmetic-operators/","tags":["programming","php","webdevelopment","backend"],"created":"2024-11-09T11:30:30.008+08:00"}
 ---
 
 

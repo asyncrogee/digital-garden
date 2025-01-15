@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/01-basics/09-logical-operators/02-and-operator/","tags":["programming","webdevelopment","frontend","JavaScript"]}
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/javascript-vanilla/01-basics/09-logical-operators/02-and-operator/","tags":["programming","webdevelopment","frontend","JavaScript"],"created":"2024-11-09T11:30:41.854+08:00"}
 ---
 
 # 02 AND operator

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/computer-science/01-introduction/001-zero-s-and-one-s/","tags":["computerscience","cs50","c_lang"]}
+{"dg-publish":true,"permalink":"/programming/computer-science/01-introduction/001-zero-s-and-one-s/","tags":["computerscience","cs50","c_lang"],"created":"2024-11-09T11:30:10.783+08:00"}
 ---
 
 ## Binary

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/how-to-take-better-notes/"}
+{"dg-publish":true,"permalink":"/learning/how-to-take-better-notes/","created":"2024-11-09T11:30:45.235+08:00"}
 ---
 
 Links: 
