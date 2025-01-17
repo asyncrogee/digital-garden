@@ -300,6 +300,8 @@ Each note reflects insights gathered while taking courses or learning from vario
 - [[PROGRAMMING/Web Development/Backend/Database/MySQL/Insert Data to MySQL\|Insert Data to MySQL]]
 - [[PROGRAMMING/Web Development/Backend/Database/MySQL/MySQL\|MySQL]]
 - [[PROGRAMMING/Web Development/Backend/Database/MySQL/PHP query MySQL\|PHP query MySQL]]
+- [[PROGRAMMING/Web Development/Backend/Laravel/01 Introduction/01 Router and View\|01 Router and View]]
+- [[PROGRAMMING/Web Development/Backend/Laravel/01 Introduction/02 Layout\|02 Layout]]
 - [[PROGRAMMING/Web Development/Backend/PHP/0 PHP\|0 PHP]]
 - [[PROGRAMMING/Web Development/Backend/PHP/Hashing\|Hashing]]
 - [[PROGRAMMING/Web Development/Backend/PHP/Routing\|Routing]]
