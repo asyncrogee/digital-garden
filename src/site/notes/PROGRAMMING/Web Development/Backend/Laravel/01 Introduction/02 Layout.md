@@ -57,3 +57,8 @@ Short Form:
 ```php
 	{{ $slot }}
 ```
+
+---
+
+[[03 Dynamic Layout \|Dynamic Layout ->]]
+

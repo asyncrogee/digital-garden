@@ -302,6 +302,7 @@ Each note reflects insights gathered while taking courses or learning from vario
 - [[PROGRAMMING/Web Development/Backend/Database/MySQL/PHP query MySQL\|PHP query MySQL]]
 - [[PROGRAMMING/Web Development/Backend/Laravel/01 Introduction/01 Router and View\|01 Router and View]]
 - [[PROGRAMMING/Web Development/Backend/Laravel/01 Introduction/02 Layout\|02 Layout]]
+- [[PROGRAMMING/Web Development/Backend/Laravel/01 Introduction/03 Dynamic Layout\|03 Dynamic Layout]]
 - [[PROGRAMMING/Web Development/Backend/PHP/0 PHP\|0 PHP]]
 - [[PROGRAMMING/Web Development/Backend/PHP/Hashing\|Hashing]]
 - [[PROGRAMMING/Web Development/Backend/PHP/Routing\|Routing]]
@@ -563,7 +564,6 @@ Each note reflects insights gathered while taking courses or learning from vario
 - [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/003 JSX/003 Styling React Applications\|003 Styling React Applications]]
 - [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/003 JSX/004  Rules of JSX\|004  Rules of JSX]]
 - [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/004 Props/001 Passing and Receiving Props\|001 Passing and Receiving Props]]
-- [[PROGRAMMING/Web Development/FrontEnd/Web Design/Web Design\|Web Design]]
 - [[PROGRAMMING/Web Development/FrontEnd/Web Design/Rules/01 Typography\|01 Typography]]
 - [[PROGRAMMING/Web Development/FrontEnd/Web Design/Rules/HTML\|HTML]]
 
