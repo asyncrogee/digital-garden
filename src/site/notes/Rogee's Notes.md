@@ -65,7 +65,6 @@ Each note reflects insights gathered while taking courses or learning from vario
 - [[LEARNING/How to accomplish Goals for 2024 by Iman Gadzhi\|How to accomplish Goals for 2024 by Iman Gadzhi]]
 - [[LEARNING/How to take better Notes\|How to take better Notes]]
 - [[PROGRAMMING/Programming\|Programming]]
-- [[PROGRAMMING/Side-Projects\|Side-Projects]]
 - [[PROGRAMMING/Computer Science/01 Introduction/001 Zero's and One's \|001 Zero's and One's ]]
 - [[PROGRAMMING/Computer Science/01 Introduction/002 Algorithm\|002 Algorithm]]
 - [[PROGRAMMING/Computer Science/01 Introduction/003 Pseudocode\|003 Pseudocode]]
