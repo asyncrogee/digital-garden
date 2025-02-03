@@ -9,7 +9,7 @@
 > _REACT_ is called "React" because:
 > IT ___REACTS___ TO __STATE__ CHANGES BY RE-RENDERING THE UI  
 
-![Pasted image 20250130160728.png](/img/user/Pasted%20image%2020250130160728.png)
+![Pasted image 20250130160728.png](/img/user/Misc/attachments/Pasted%20image%2020250130160728.png)
 
 ---
 > [!abstract] State
@@ -18,9 +18,9 @@
 > - "__Component's memory__"
 > - "__State variable__" / "__piece of state__": A single variable in a component (component state)
 > - Updating __component state__ triggers React to ___re-render the component___
-> ![Pasted image 20250130170451.png](/img/user/Pasted%20image%2020250130170451.png)
+> ![Pasted image 20250130170451.png](/img/user/Misc/attachments/Pasted%20image%2020250130170451.png)
 > - State is how _React_ keeps __UI in-sync with Data__
-> ![Pasted image 20250130170830.png](/img/user/Pasted%20image%2020250130170830.png)
+> ![Pasted image 20250130170830.png](/img/user/Misc/attachments/Pasted%20image%2020250130170830.png)
 
 > [!info] State allows developers to:
 > 1. Update the component's view (by re-rendering it)

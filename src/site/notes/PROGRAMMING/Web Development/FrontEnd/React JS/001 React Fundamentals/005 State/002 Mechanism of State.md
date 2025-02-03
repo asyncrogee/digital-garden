@@ -10,13 +10,13 @@
 > - __a view is updated by re-rendering the component__
 > 	- _ReactJS_ calls the `component function` again, but the __State is preserved__ throughout re-renders
 > 
-> ![Pasted image 20250130214155.png](/img/user/Pasted%20image%2020250130214155.png)
+> ![Pasted image 20250130214155.png](/img/user/Misc/attachments/Pasted%20image%2020250130214155.png)
 
 > [!example] Examples
-> ![Pasted image 20250130214436.png](/img/user/Pasted%20image%2020250130214436.png)
+> ![Pasted image 20250130214436.png](/img/user/Misc/attachments/Pasted%20image%2020250130214436.png)
 > - When we click "`Get Advice`" button, a new advice is stored in `advice` from an API
 > - The `count` and `advice` is then updated by the `setAdvice` and `setCount` functions
 > 
-> ![Pasted image 20250130214608.png](/img/user/Pasted%20image%2020250130214608.png)
+> ![Pasted image 20250130214608.png](/img/user/Misc/attachments/Pasted%20image%2020250130214608.png)
 
 
