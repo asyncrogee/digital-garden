@@ -1,18 +1,7 @@
 ---
-ProgrammingLanguage: JavaScript
-Framework/Library: ReactJS
-Type: fundamentals
-Topic: JSX
-Course: "The Ultimate React Course 2024: React, Next.js, Redux & More"
-Section: Working with Components, Props, and JSX
-Reference/Resources: https://www.udemy.com/course/the-ultimate-react-course/
-tags:
-  - programming
-  - ReactJS
-  - javascript
-  - jsx
-dg-publish: true
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/react-js/001-react-fundamentals/003-jsx/002-imperative-vs-declarative/","tags":["programming","ReactJS","javascript","jsx"],"created":"2024-12-28T15:24:21.537+08:00"}
 ---
+
 
 > [!info] Imperative
 > We tell the browser exactly "__How to do things__"
