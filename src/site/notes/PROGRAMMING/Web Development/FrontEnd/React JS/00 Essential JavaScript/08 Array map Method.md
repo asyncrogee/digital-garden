@@ -1,18 +1,7 @@
 ---
-ProgrammingLanguage: JavaScript
-Framework/Library: N/A
-Type: fundamentals
-Topic: Array map Method
-Course: "The Ultimate React Course 2024: React, Next.js, Redux & More"
-Section: Review of Essential JavaScript for React
-Reference/Resources: https://www.udemy.com/course/the-ultimate-react-course/
-tags:
-  - programming
-  - jsbasics
-  - javascript
-  - JS-Fundamentals
-dg-publish: true
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/react-js/00-essential-java-script/08-array-map-method/","tags":["programming","jsbasics","javascript","JS-Fundamentals"],"created":"2024-12-24T18:53:21.422+08:00"}
 ---
+
 
 > [!abstract] Array Map method
 > - __Loops__ over an `array`

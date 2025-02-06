@@ -66,16 +66,17 @@ Each note reflects insights gathered while taking courses or learning from vario
 { .block-language-dataview}
 
 #### State:
-| File                                                                                                                                                                       | Topic                                      |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/005 State/001 What is State in React\|001 What is State in React]]                               | State                                      |
-| [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/005 State/002 Mechanism of State\|002 Mechanism of State]]                                       | Mechanism of State                         |
-| [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/005 State/003 Updating State based on Current State\|003 Updating State based on Current State]] | Updating State based on Current State      |
-| [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/005 State/004 One Component, One State\|004 One Component, One State]]                           | One Component, One State                   |
-| [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/001 Intro & Theories/005 Component, Props & State\|005 Component, Props & State]]                | Props, Immutability, and One-Way Data Flow |
-| [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/005 State/006 Practical Guidelines about State\|006 Practical Guidelines about State]]           | Practical Guidelines about State           |
-| [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/001 Intro & Theories/006 State vs Props\|006 State vs Props]]                                    | State vs Props                             |
-| [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/005 State/007 Controlled Elements\|007 Controlled Elements]]                                     | State Controlled Elements                  |
+| File                                                                                                                                                                        | Topic                                      |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/005 State/001 What is State in React\|001 What is State in React]]                                | State                                      |
+| [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/005 State/002 Mechanism of State\|002 Mechanism of State]]                                        | Mechanism of State                         |
+| [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/005 State/003 Updating State based on Current State\|003 Updating State based on Current State]]  | Updating State based on Current State      |
+| [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/005 State/004 One Component, One State\|004 One Component, One State]]                            | One Component, One State                   |
+| [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/001 Intro & Theories/005 Component, Props & State\|005 Component, Props & State]]                 | Props, Immutability, and One-Way Data Flow |
+| [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/005 State/006 Practical Guidelines about State\|006 Practical Guidelines about State]]            | Practical Guidelines about State           |
+| [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/001 Intro & Theories/006 State vs Props\|006 State vs Props]]                                     | State vs Props                             |
+| [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/005 State/007 Controlled Elements\|007 Controlled Elements]]                                      | State Controlled Elements                  |
+| [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/001 Intro & Theories/008 Fundamentals of State Management\|008 Fundamentals of State Management]] | State Management                           |
 
 { .block-language-dataview}
 ---
@@ -577,6 +578,8 @@ Each note reflects insights gathered while taking courses or learning from vario
 - [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/001 Intro & Theories/004 Separation of Concerns\|004 Separation of Concerns]]
 - [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/001 Intro & Theories/005 Component, Props & State\|005 Component, Props & State]]
 - [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/001 Intro & Theories/006 State vs Props\|006 State vs Props]]
+- [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/001 Intro & Theories/007 Thinking in React\|007 Thinking in React]]
+- [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/001 Intro & Theories/008 Fundamentals of State Management\|008 Fundamentals of State Management]]
 - [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/002 Components/001 Render Root Component & Strict Mode\|001 Render Root Component & Strict Mode]]
 - [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/002 Components/002 Components as Building Blocks\|002 Components as Building Blocks]]
 - [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/002 Components/003 Creating and Reusing a Component\|003 Creating and Reusing a Component]]
