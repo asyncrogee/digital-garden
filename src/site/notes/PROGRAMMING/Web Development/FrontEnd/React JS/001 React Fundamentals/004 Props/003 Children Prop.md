@@ -74,3 +74,44 @@ function Button({ textColor, bgColor, onClick, children }) {
 }
 ```
 - and then, we call the `children prop` as __children__ (it's already __pre-defined__ in _ReactJS_)
+
+### More Examples:
+```jsx
+function StepMessage({ step, children }) {
+  return (
+    <div className="message">
+      <h3>Step {step}</h3>
+      {children}
+    </div>
+  );
+}
+
+export default function Project3() {
+  return (
+    <div>
+      <Steps />
+      <StepMessage step={1}>
+        <p>Pass in content</p>
+        <p>*</p>
+      </StepMessage>
+    </div>
+  );
+}
+```
+
+###### Component inside an `HTML element` INSIDE a Component
+```jsx
+  <StepMessage step={step}>
+	{messages[step - 1]}
+	<div className="buttons">
+	  <Button bgColor="#e7e7e7" textColor="#333" 
+		onClick={() => alert(`Learn how to ${messages[step - 1]}`)}>
+		  Learn how
+	  </Button>
+	</div>
+  </StepMessage>
+
+  <StepMessage step={step}>
+	{messages[step - 1]}
+  </StepMessage>
+```
