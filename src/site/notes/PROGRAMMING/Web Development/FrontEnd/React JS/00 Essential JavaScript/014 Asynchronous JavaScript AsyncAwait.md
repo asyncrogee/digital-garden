@@ -1,18 +1,7 @@
 ---
-ProgrammingLanguage: JavaScript
-Framework/Library: N/A
-Type: fundamentals
-Topic: Asynchronous Promises
-Course: "The Ultimate React Course 2024: React, Next.js, Redux & More"
-Section: Review of Essential JavaScript for React
-Reference/Resources: https://www.udemy.com/course/the-ultimate-react-course/
-tags:
-  - programming
-  - jsbasics
-  - javascript
-  - JS-Fundamentals
-dg-publish: true
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/react-js/00-essential-java-script/014-asynchronous-java-script-async-await/","tags":["programming","jsbasics","javascript","JS-Fundamentals"],"created":"2024-12-27T21:14:31.689+08:00"}
 ---
+
 
 > [!tip] After learning it: 
  There's actually no difference between the original `fetch().then()` and `async/await`, only for __readability__ & _syntax_

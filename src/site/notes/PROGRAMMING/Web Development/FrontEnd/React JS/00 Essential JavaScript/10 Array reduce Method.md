@@ -1,18 +1,7 @@
 ---
-ProgrammingLanguage: JavaScript
-Framework/Library: N/A
-Type: fundamentals
-Topic: Array reduce Method
-Course: "The Ultimate React Course 2024: React, Next.js, Redux & More"
-Section: Review of Essential JavaScript for React
-Reference/Resources: https://www.udemy.com/course/the-ultimate-react-course/
-tags:
-  - programming
-  - jsbasics
-  - javascript
-  - JS-Fundamentals
-dg-publish: true
+{"dg-publish":true,"permalink":"/programming/web-development/front-end/react-js/00-essential-java-script/10-array-reduce-method/","tags":["programming","jsbasics","javascript","JS-Fundamentals"],"created":"2024-12-24T20:45:47.309+08:00"}
 ---
+
 
 > [!abstract] reduce method
 > Reduces/Boil down the entire array into _1 value_
@@ -25,4 +14,5 @@ const pagesAllBooks = books.reduce((accumulator, book) => accumulator + book.pag
 ```
 - `0` is the starting value of the ___`accumulator`___
 	- then in the callback function, it's getting added. 
-- Conceptually, I think it looks like the iterations in a for loop
+- Conceptually, I think it looks like the __iterations in a `for loop`__
+

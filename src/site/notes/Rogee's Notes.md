@@ -60,6 +60,7 @@ Each note reflects insights gathered while taking courses or learning from vario
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
 | [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/004 Props/001 Passing and Receiving Props\|001 Passing and Receiving Props]]      | Props                                      |
 | [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/004 Props/002 Destructuring Props\|002 Destructuring Props]]                      | Destructuring Props                        |
+| [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/004 Props/003 Children Prop\|003 Children Prop]]                                  | Children Prop                              |
 | [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/001 Intro & Theories/005 Component, Props & State\|005 Component, Props & State]] | Props, Immutability, and One-Way Data Flow |
 | [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/001 Intro & Theories/006 State vs Props\|006 State vs Props]]                     | State vs Props                             |
 
@@ -77,6 +78,8 @@ Each note reflects insights gathered while taking courses or learning from vario
 | [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/001 Intro & Theories/006 State vs Props\|006 State vs Props]]                                     | State vs Props                             |
 | [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/005 State/007 Controlled Elements\|007 Controlled Elements]]                                      | State Controlled Elements                  |
 | [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/001 Intro & Theories/008 Fundamentals of State Management\|008 Fundamentals of State Management]] | State Management                           |
+| [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/005 State/008 Lifting State Up\|008 Lifting State Up]]                                            | Lifting State Up                           |
+| [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/005 State/009 Derived State\|009 Derived State]]                                                  | Derived State                              |
 
 { .block-language-dataview}
 ---
@@ -596,6 +599,7 @@ Each note reflects insights gathered while taking courses or learning from vario
 - [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/003 JSX/008 Setting Classes and Text Conditionally\|008 Setting Classes and Text Conditionally]]
 - [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/004 Props/001 Passing and Receiving Props\|001 Passing and Receiving Props]]
 - [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/004 Props/002 Destructuring Props\|002 Destructuring Props]]
+- [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/004 Props/003 Children Prop\|003 Children Prop]]
 - [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/005 State/001 What is State in React\|001 What is State in React]]
 - [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/005 State/002 Mechanism of State\|002 Mechanism of State]]
 - [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/005 State/003 Updating State based on Current State\|003 Updating State based on Current State]]
@@ -603,6 +607,8 @@ Each note reflects insights gathered while taking courses or learning from vario
 - [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/005 State/005 UI as a Function of a State\|005 UI as a Function of a State]]
 - [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/005 State/006 Practical Guidelines about State\|006 Practical Guidelines about State]]
 - [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/005 State/007 Controlled Elements\|007 Controlled Elements]]
+- [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/005 State/008 Lifting State Up\|008 Lifting State Up]]
+- [[PROGRAMMING/Web Development/FrontEnd/React JS/001 React Fundamentals/005 State/009 Derived State\|009 Derived State]]
 - [[PROGRAMMING/Web Development/FrontEnd/Web Design/Rules/01 Typography\|01 Typography]]
 - [[PROGRAMMING/Web Development/FrontEnd/Web Design/Rules/HTML\|HTML]]
 

@@ -241,23 +241,23 @@
 ### Terminology / Theories
 | File                                                                                                                                                                   | topic       | part |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ---- |
+| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 2/01 Programming Terminology/06 Syntax\|06 Syntax]]                                                | terminology | 2.1  |
+| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 2/01 Programming Terminology/07 Debugging\|07 Debugging]]                                          | terminology | 2.1  |
+| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 2/01 Programming Terminology/05 Data Type\|05 Data Type]]                                          | terminology | 2.1  |
+| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 2/01 Programming Terminology/01 Statement\|01 Statement]]                                          | terminology | 2.1  |
+| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 2/01 Programming Terminology/04 Function\|04 Function]]                                            | terminology | 2.1  |
+| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 2/01 Programming Terminology/03 Expression\|03 Expression]]                                        | terminology | 2.1  |
+| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 2/01 Programming Terminology/02 Block\|02 Block]]                                                  | terminology | 2.1  |
 | [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 5/02 References/02 Multiple references to the same list\|02 Multiple references to the same list]] | terminology | 5.2  |
 | [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 5/02 References/01 References\|01 References]]                                                     | terminology | 5.2  |
-| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 2/01 Programming Terminology/07 Debugging\|07 Debugging]]                                          | terminology | 2.1  |
-| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 2/01 Programming Terminology/06 Syntax\|06 Syntax]]                                                | terminology | 2.1  |
-| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 2/01 Programming Terminology/05 Data Type\|05 Data Type]]                                          | terminology | 2.1  |
-| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 2/01 Programming Terminology/02 Block\|02 Block]]                                                  | terminology | 2.1  |
-| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 2/01 Programming Terminology/01 Statement\|01 Statement]]                                          | terminology | 2.1  |
-| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 2/01 Programming Terminology/03 Expression\|03 Expression]]                                        | terminology | 2.1  |
-| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 2/01 Programming Terminology/04 Function\|04 Function]]                                            | terminology | 2.1  |
 
 { .block-language-dataview}
 
 ### Basics
 | File                                                                                                                                 | topic  | part |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------ | ---- |
-| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 1/01 Basics/03 Arithmetic operations\|03 Arithmetic operations]] | basics | 1.1  |
 | [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 1/01 Basics/04 Commenting\|04 Commenting]]                       | basics | 1.1  |
+| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 1/01 Basics/03 Arithmetic operations\|03 Arithmetic operations]] | basics | 1.1  |
 | [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 1/01 Basics/02  Multiple Commands\|02  Multiple Commands]]       | basics | 1.1  |
 | [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 1/01 Basics/01 Commands\|01 Commands]]                           | basics | 1.1  |
 
@@ -277,8 +277,8 @@
 ###  Input
 | File                                                                                                                                        | topic | part |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ---- |
-| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 1/02 Input/03 More than one input\|03 More than one input]]             | input | 1.2  |
 | [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 1/02 Input/02 Referencing a variable\|02 Referencing a variable]]       | input | 1.2  |
+| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 1/02 Input/03 More than one input\|03 More than one input]]             | input | 1.2  |
 | [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 1/02 Input/01 Information from the user\|01 Information from the user]] | input | 1.2  |
 
 { .block-language-dataview}
@@ -289,17 +289,17 @@
 | [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 1/03 More about Variables/06 Floating point numbers\|06 Floating point numbers]]                     | variables | 1.3  |
 | [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 1/03 More about Variables/05 Printing with f-strings\|05 Printing with f-strings]]                   | variables | 1.3  |
 | [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 1/03 More about Variables/04 Combining values when printing\|04 Combining values when printing]]     | variables | 1.3  |
-| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 1/03 More about Variables/01 More about variables\|01 More about variables]]                         | variables | 1.3  |
 | [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 1/03 More about Variables/03 Integers\|03 Integers]]                                                 | variables | 1.3  |
 | [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 1/03 More about Variables/02 Changing the value of a variable\|02 Changing the value of a variable]] | variables | 1.3  |
+| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 1/03 More about Variables/01 More about variables\|01 More about variables]]                         | variables | 1.3  |
 
 { .block-language-dataview}
 
 ### Arithmetic
 | File                                                                                                                                                                          | topic      | part |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---- |
-| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 1/04 Arithmetic operations/03 Numbers as input\|03 Numbers as input]]                                     | arithmetic | 1.4  |
 | [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 1/04 Arithmetic operations/04 Using variables\|04 Using variables]]                                       | arithmetic | 1.4  |
+| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 1/04 Arithmetic operations/03 Numbers as input\|03 Numbers as input]]                                     | arithmetic | 1.4  |
 | [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 1/04 Arithmetic operations/02 Operands, operators and data types\|02 Operands, operators and data types]] | arithmetic | 1.4  |
 | [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 1/04 Arithmetic operations/01 Arithmetic operations\|01 Arithmetic operations]]                           | arithmetic | 1.4  |
 
@@ -308,13 +308,13 @@
 ### Loops
 | File                                                                                                                                                                               | topic | part |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ---- |
-| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 4/03 Definite iteration/04 From a range to a list\|04 From a range to a list]]                                 | loops | 4.3  |
-| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 4/03 Definite iteration/03 The function RANGE\|03 The function RANGE]]                                         | loops | 4.3  |
 | [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 4/03 Definite iteration/02 The for loop\|02 The for loop]]                                                     | loops | 4.3  |
+| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 4/03 Definite iteration/03 The function RANGE\|03 The function RANGE]]                                         | loops | 4.3  |
 | [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 4/03 Definite iteration/01 Definite iteration\|01 Definite iteration]]                                         | loops | 4.3  |
+| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 4/03 Definite iteration/04 From a range to a list\|04 From a range to a list]]                                 | loops | 4.3  |
+| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 2/04 Simple Loops/03 Debugging print statements in loops\|03 Debugging print statements in loops]]             | loops | 2.4  |
 | [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 2/04 Simple Loops/04 Concatenating strings with the + operator\|04 Concatenating strings with the + operator]] | loops | 2.4  |
 | [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 2/04 Simple Loops/01 Simple loops\|01 Simple loops]]                                                           | loops | 2.4  |
-| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 2/04 Simple Loops/03 Debugging print statements in loops\|03 Debugging print statements in loops]]             | loops | 2.4  |
 | [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 2/04 Simple Loops/02 Loops and helper variables\|02 Loops and helper variables]]                               | loops | 2.4  |
 
 { .block-language-dataview}
@@ -322,27 +322,27 @@
 ### Lists
 | File                                                                                                                                                                                                     | topic | part |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ---- |
+| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 4/05 More strings and lists/04 Strings are immutable\|04 Strings are immutable]]                                                     | lists | 4.5  |
+| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 4/05 More strings and lists/05 More methods for Lists and Strings\|05 More methods for Lists and Strings]]                           | lists | 4.5  |
+| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 4/05 More strings and lists/02 More Slices\|02 More Slices]]                                                                         | lists | 4.5  |
+| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 4/05 More strings and lists/01 More strings and lists\|01 More strings and lists]]                                                   | lists | 4.5  |
+| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 4/02 Lists/09 A list as an argument or a return value\|09 A list as an argument or a return value]]                                  | lists | 4.2  |
+| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 4/02 Lists/07 Maximum, Minimum and Sum\|07 Maximum, Minimum and Sum]]                                                                | lists | 4.2  |
+| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 4/02 Lists/08 Methods vs Functions\|08 Methods vs Functions]]                                                                        | lists | 4.2  |
+| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 4/02 Lists/04 Adding to a specific location\|04 Adding to a specific location]]                                                      | lists | 4.2  |
+| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 4/02 Lists/06 Sorting Lists\|06 Sorting Lists]]                                                                                      | lists | 4.2  |
+| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 4/02 Lists/03 Adding items to a LIST\|03 Adding items to a LIST]]                                                                    | lists | 4.2  |
+| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 4/02 Lists/05 Removing items from a LIST\|05 Removing items from a LIST]]                                                            | lists | 4.2  |
+| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 4/02 Lists/01 Lists\|01 Lists]]                                                                                                      | lists | 4.2  |
+| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 4/02 Lists/02 Accessing items in a LIST\|02 Accessing items in a LIST]]                                                              | lists | 4.2  |
+| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 4/03 Definite iteration/05 Finding the best or the worst item in a list\|05 Finding the best or the worst item in a list]]           | lists | 4.3  |
 | [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 5/01 More Lists/05 A two-dimensional array as a data structure in a game\|05 A two-dimensional array as a data structure in a game]] | lists | 5.1  |
-| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 5/01 More Lists/03 Matrices\|03 Matrices]]                                                                                           | lists | 5.1  |
 | [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 5/01 More Lists/04 Accessing items in a matrix\|04 Accessing items in a matrix]]                                                     | lists | 5.1  |
+| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 5/01 More Lists/03 Matrices\|03 Matrices]]                                                                                           | lists | 5.1  |
 | [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 5/01 More Lists/02 Lists within lists\|02 Lists within lists]]                                                                       | lists | 5.1  |
 | [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 5/01 More Lists/01 Lists with different types of data\|01 Lists with different types of data]]                                       | lists | 5.1  |
 | [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 5/02 References/04 Using lists as parameters in functions\|04 Using lists as parameters in functions]]                               | lists | 5.2  |
 | [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 5/02 References/03 Copying a list\|03 Copying a list]]                                                                               | lists | 5.2  |
-| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 4/05 More strings and lists/05 More methods for Lists and Strings\|05 More methods for Lists and Strings]]                           | lists | 4.5  |
-| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 4/05 More strings and lists/04 Strings are immutable\|04 Strings are immutable]]                                                     | lists | 4.5  |
-| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 4/05 More strings and lists/02 More Slices\|02 More Slices]]                                                                         | lists | 4.5  |
-| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 4/05 More strings and lists/01 More strings and lists\|01 More strings and lists]]                                                   | lists | 4.5  |
-| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 4/03 Definite iteration/05 Finding the best or the worst item in a list\|05 Finding the best or the worst item in a list]]           | lists | 4.3  |
-| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 4/02 Lists/09 A list as an argument or a return value\|09 A list as an argument or a return value]]                                  | lists | 4.2  |
-| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 4/02 Lists/07 Maximum, Minimum and Sum\|07 Maximum, Minimum and Sum]]                                                                | lists | 4.2  |
-| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 4/02 Lists/08 Methods vs Functions\|08 Methods vs Functions]]                                                                        | lists | 4.2  |
-| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 4/02 Lists/03 Adding items to a LIST\|03 Adding items to a LIST]]                                                                    | lists | 4.2  |
-| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 4/02 Lists/04 Adding to a specific location\|04 Adding to a specific location]]                                                      | lists | 4.2  |
-| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 4/02 Lists/06 Sorting Lists\|06 Sorting Lists]]                                                                                      | lists | 4.2  |
-| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 4/02 Lists/05 Removing items from a LIST\|05 Removing items from a LIST]]                                                            | lists | 4.2  |
-| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 4/02 Lists/02 Accessing items in a LIST\|02 Accessing items in a LIST]]                                                              | lists | 4.2  |
-| [[PROGRAMMING/Python/0 Python Programming MOOC/Introduction/Part 4/02 Lists/01 Lists\|01 Lists]]                                                                                                      | lists | 4.2  |
 
 { .block-language-dataview}
 
